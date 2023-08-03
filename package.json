@@ -8,12 +8,12 @@
     "email": "hi@m4tt72.com"
   },
   "funding": {
-    "type": "Paypal",
-    "url": "https://paypal.me/y4ss1n3"
+    "type": "Cafecito",
+    "url": ""
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/m4tt72/terminal"
+    "url": "https://github.com/MarScapola/lua_terminal"
   },
   "scripts": {
     "start": "next start",
